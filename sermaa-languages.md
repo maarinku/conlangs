@@ -1,12 +1,3 @@
 # Sermaa Languages
 
-Sermaa Language Family Tree:
-
-
-
-    ┌───────┐
-    │ Penis │
-    └───────┘
-
-
-
+[Sermaa Language Family Tree]
