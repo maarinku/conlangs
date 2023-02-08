@@ -26,7 +26,7 @@
 		* [Neri](neri.md)
 	* [Sumre](sumre.md)
 		* [West Sumre](west-sumre.md)
-			* [Sanea](sanea.md)
+			* [Sanea](sanea.md) [!]
 		* [Tsiex](tsiex.md)
 		* [Sivè](sive.md)
 		* Proto-Mezic
