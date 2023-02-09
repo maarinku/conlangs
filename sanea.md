@@ -46,6 +46,15 @@ Words with only one syllable automatically have a low tone, but a high tone in t
 
 Note that acute accents such as in *koíkar* and *míz* are not normally written outside of educational circumstances to explain the pitch accent to others. They are normally written without any diacritics no matter the context.
 
+Words with a circumflex tone (rising-falling) keep their tone but rise again on the ultimate syllable:
+* *hŷmmoi* [hœ́œ̀mːoi̯] "speed" -> *hŷmmoí* [hœ́œ̀mːói̯] "the speed"
+
+Monosyllabic words with a rising-falling tone will instead have a falling-rising tone:
+* *ûs* [úùs] "controller" -> *ũs* [ùús] "the controller"
+
+Words with a rising-falling tone on the ultimate syllable will instead be replaced with a high tone:
+* *nohûd* [nohúùd] "suggestion" -> *nohụd* [nohúːd] "the suggestion"
+
 ## Nouns
 
 ### Case
