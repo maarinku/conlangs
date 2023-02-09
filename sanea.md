@@ -7,21 +7,33 @@
 ### Vowel Inventory
 
 i iː \<i ì\>
+
 e eː ~ ɛ ɛː \<e è\>
+
 œ œː ~ ʌ ʌː \<y ỳ\>
+
 a aː \<a à\>
 
 ### Consonant Inventory
 
 m \<m\>
+
 n ɲ \<n ñ\>
+
 ɾ ɾ̥ \<r rr\>
+
 p b \<p b\>
+
 v \<v\>
+
 ɕ ʑ s z \<š ž s z\>
+
 l \<l\>
+
 h \<h ~ ɦ ~ x\>
+
 k g \<k g\>
+
 j \<y\>
 
 ### Pitch Accent
