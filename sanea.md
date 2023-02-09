@@ -55,10 +55,22 @@ Monosyllabic words with a rising-falling tone will instead have a falling-rising
 Words with a rising-falling tone on the ultimate syllable will instead be replaced with a high tone:
 * *nohûd* [nohúùd] "suggestion" -> *nohụd* [nohúːd] "the suggestion"
 
+### Phonological Processes
+Fortition reverses at the beginnings of root words after a prefix has been assigned to them, such as words that historically started with /s/ or /z/:
+* *timmi* [tímːi] (<- Sumre *simmė* [símːe]) becomes *asimmi* [àsímːi] in its dual form
+* *dor* [doɾ] (<- Sumre *zur* [zúɾ]) becomes *azor* [ázòɾ] in its dual form
+
+/j/ will also become /ɲ/ before /i/:
+* *bèhoyen* "to craft; make" -> *bèhoñik* "you all crafted; made"
+
 ## Nouns
 
 ### Case
 Sanea has only 1 noun case, the nominative case, the accusative was replaced by definiteness.
+
+### Declension
+Sanea only declines based on number, there are dual and plural forms:
+* *tímmi* [tímːi] "a language" -> *asímmi* [àtímːi] "a couple languages" -> *timmíru* [tìmːíɾu] "many languages"
 
 ## Verbs
 
@@ -76,3 +88,16 @@ Let's take a look at the plural forms with another verb:
 * **1PL** -> *darrizo (darrízo)* [daɾ̥ízo] - "we apologize"
 * **2PL** -> *darrizea (darrizéa)* [daɾ̥izéa] - "you all apologize"
 * **3PL** -> *darrizyr (darrízyr)* [daɾ̥ízœɾ ~ daɾ̥ízʌɾ] - "they apologize"
+
+#### Past Tense
+Sanea's simple past is conjugated as so:
+
+*bèhoyen (bèhóyen)* [bɛːhójen] "to craft; make"
+* **1SG** -> *bèhoyak* "I crafted; made"
+* **2SG** -> *bèhoyek* "you crafted; made"
+* **3SG** -> *bèhoyarak (bèhoyárak)* "he/she/it crafted; made"
+
+Plural forms:
+* **1PL** -> *bèhoyok* "we crafted; made"
+* **2PL** -> *bèhoñik* "you all crafted; made"
+* **3PL** -> *bèhoik* "they crafted; made"
