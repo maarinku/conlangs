@@ -1,6 +1,6 @@
 # Sanea Language
 
-**Sanea** (*Sanea* [s̺an̪éa]) is a West Sumric language, it is one of the only remaining Sumric language that utilizes a pitch accent to denote definitiveness in noun forms. It is a descendant of [West Sumre](west-sumre.md).
+**Sanea** (*Sanea* [s̺an̪éa]) is a West Sumric language, it is one of the only remaining Sumric language that utilizes a pitch accent to denote definiteness in noun forms. It is a descendant of [West Sumre](west-sumre.md).
 
 ## Phonology
 
@@ -38,10 +38,32 @@ j \<y\>
 
 ### Pitch Accent
 
-Sanea has a pitch accent, internally known as *vammati* or "musical speech", where the word has a high pitch on the penultimate syllable and a low pitch on all preceding syllables. However, the pitch shifts to a low pitch on all syllables apart from the final syllable when in its definitive form. Here's an example:
+Sanea has a pitch accent, internally known as *vammati* or "musical speech", where the word has a high pitch on the penultimate syllable and a low pitch on all preceding syllables. However, the pitch shifts to a low pitch on all syllables apart from the final syllable when in its definite form. Here's an example:
 * *koíkar* [koíkaɾ] "mouth" -> *koikár* [koikáɾ] "the mouth"
 
-Words with only one syllable automatically have a low tone, but a high tone in their definitive:
+Words with only one syllable automatically have a low tone, but a high tone in their definite:
 * *miz* [miz] "house" -> *míz* [míz] "the house"
 
 Note that acute accents such as in *koíkar* and *míz* are not normally written outside of educational circumstances to explain the pitch accent to others. They are normally written without any diacritics no matter the context.
+
+## Nouns
+
+### Case
+Sanea has only 1 noun case, the nominative case, the accusative was replaced by definiteness.
+
+## Verbs
+
+### Conjugation
+
+Sanea conjugates verbs based on person, which is a feature specific to the Sumric subfamily, the rest of the Sermaa language family conjugates based on tense, and the rest of the Sumric subfamily either conjugate personally or don't conjugate at all. In Sanea's system, the 1st and 2nd person conjugations are identical in their singular form, here's are some examples (official accentuation in parentheses):
+
+*torroyen (torróyen)* [toɾ̥ójen] - "to love"
+* **1SG / 2SG** -> *torroyè (torróyè)* [toɾ̥ójeː] - "I love / you love"
+* **3SG** -> *torroyar (torróyar)* [toɾ̥ójaɾ] - "he/she/it loves"
+
+Let's take a look at the plural forms with another verb:
+
+*darrizen (darrízen)* [daɾ̥ízɛn] - "to apologize"
+* **1PL** -> *darrizo (darrízo)* [daɾ̥ízo] - "we apologize"
+* **2PL** -> *darrizea (darrizéa)* [daɾ̥izéa] - "you all apologize"
+* **3PL** -> *darrizyr (darrízyr)* [daɾ̥ízœɾ ~ daɾ̥ízʌɾ] - "they apologize"
