@@ -101,3 +101,11 @@ Plural forms:
 * **1PL** -> *bèhoyok* "we crafted; made"
 * **2PL** -> *bèhoñik* "you all crafted; made"
 * **3PL** -> *bèhoik* "they crafted; made"
+
+## Grammar
+
+### Word Order
+Sanea's word order is strictly SVO, as such:
+
+* *me nozerè kàsi-varmis (me nozérè kàsí-varmís)* [me nozɛ́ɾɛː kaːsí vaɾmís] "I hate cow meat"
+* GLOSS: `I hate-1SG cow-DEF-meat-DEF`
