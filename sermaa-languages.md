@@ -27,7 +27,7 @@
 	* [Sumre](sumre.md)
 		* [West Sumre](west-sumre.md)
 			* [Sanea](sanea.md) [C]
-		* [Tsiex](tsiex.md)
+		* [Tsiex](tsiex.md) [C]
 		* [Sivè](sive.md)
 		* Proto-Mezic
 			* [Mėice](meice.md)
