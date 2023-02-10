@@ -5,3 +5,11 @@ body {
 hr {
 	border: 1px solid grey;
 }
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
